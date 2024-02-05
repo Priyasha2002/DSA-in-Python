@@ -1,5 +1,5 @@
 lass Solution:
-    def firstUniqChar(self, s: str) -> int:
+    def firstUniqChar(self, s: str) -> int: 
 
         count = [0] *26
 
